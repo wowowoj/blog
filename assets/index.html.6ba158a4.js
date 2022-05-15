@@ -1,0 +1,1 @@
+const e={key:"v-144c90e3",path:"/algo/",title:"guide",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1652615825e3,contributors:[{name:"wowowoj",email:"1625222490@qq.com",commits:1}]},filePathRelative:"algo/README.md"};export{e as data};
