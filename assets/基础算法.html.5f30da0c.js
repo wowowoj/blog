@@ -1,0 +1,1 @@
+const t={key:"v-3100c84e",path:"/algo/%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95.html",title:"AC785. \u5FEB\u901F\u6392\u5E8F",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1652615825e3,contributors:[{name:"wowowoj",email:"1625222490@qq.com",commits:1}]},filePathRelative:"algo/\u57FA\u7840\u7B97\u6CD5.md"};export{t as data};
